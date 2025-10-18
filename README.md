@@ -1,1 +1,1 @@
-Student Portal Projrct
+Student Portal Project
